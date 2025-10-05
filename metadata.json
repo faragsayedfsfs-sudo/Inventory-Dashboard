@@ -1,0 +1,5 @@
+{
+  "name": "MY Inventory FS001",
+  "description": "A comprehensive inventory management application to track stock levels across multiple branch locations. Features a central dashboard for an overview and detailed views for each branch, with capabilities to edit stock and export data to CSV.",
+  "requestFramePermissions": []
+}
